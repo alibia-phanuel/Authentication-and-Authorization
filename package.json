@@ -25,17 +25,22 @@
     "bcryptjs": "^3.0.2",
     "body-parser": "^1.20.3",
     "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "jsonwebtoken": "^9.0.2",
-    "nedb-promise": "^2.0.1"
+    "mysql2": "^3.14.0",
+    "nedb-promise": "^2.0.1",
+    "sequelize": "^6.37.6"
   },
   "devDependencies": {
     "@types/bcryptjs": "^2.4.6",
     "@types/body-parser": "^1.19.5",
     "@types/cors": "^2.8.17",
+    "@types/dotenv": "^6.1.1",
     "@types/express": "^5.0.1",
     "@types/jsonwebtoken": "^9.0.9",
     "@types/nedb": "^1.8.16",
+    "@types/sequelize": "^4.28.20",
     "nodemon": "^3.0.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.2"
